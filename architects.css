@@ -13,6 +13,12 @@
 .display-flex{
     display: flex;
 }
+
+.text-primary{
+  color: #FF900E;
+  
+}
+
 /* dark 02 */
 
 .text-gray{
