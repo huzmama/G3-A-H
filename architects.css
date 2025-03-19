@@ -184,9 +184,13 @@ main > section{
 
      }
 
-     .team-img-container{
+     .team-img-container , .facts-container{
 
-      grid-template-columns: 1,1fr;
+      grid-template-columns: 1fr;
+     }
+     .facts-container{
+      justify-items: center;
+      gap: 24px;
      }
 
      .our-features{
